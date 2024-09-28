@@ -1,0 +1,19 @@
+{
+  "versionValue": "0.1.7",
+  "startupBackupStatus": true,
+  "lifecycleValue": "3",
+  "backupsPerDayValue": "1",
+  "maxRetriesValue": "1",
+  "retryIntervalValue": "100",
+  "winSavePathValue": "C:\\Backup\\Obsidian",
+  "unixSavePathValue": "",
+  "fileNameFormatValue": "KC-GAMING-VAULT-Backup-%Y_%m_%d-%H_%M_%S",
+  "intervalBackupStatus": false,
+  "backupFrequencyValue": "10",
+  "callingArchiverStatus": false,
+  "archiverTypeValue": "sevenZip",
+  "archiveFileTypeValue": "zip",
+  "archiverWinPathValue": "",
+  "archiverUnixPathValue": "",
+  "showRibbonIcon": true
+}

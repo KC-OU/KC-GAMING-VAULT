@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7da3a14c037f8e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44500724fe19ac49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Modern Video Games/Publishers and Developers  Games/Bethesda/Fallout/Fallout 4 - Main Page - Introduction/Fallout 4 - Main Page - Introduction.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fallout 4 - Main Page - Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#RetroGames",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2e6355ae312b2c82",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f6ef017cc52d2e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09384058bb1c4e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01866bcbc2fd8a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Character_Sheets/1 - Character Sheets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1 - Character Sheets"
+            }
+          },
+          {
+            "id": "505cdf32bf6b016b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Character_Sheets/1 - Character Sheets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1 - Character Sheets"
+            }
+          },
+          {
+            "id": "e0476cfc571d360e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "734965fc2bb6a962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Character_Sheets/1 - Character Sheets.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1 - Character Sheets"
+            }
+          },
+          {
+            "id": "89c85e720490d000",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "082d00d22d181097",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {},
+              "icon": "life-buoy",
+              "title": "HelpMate"
+            }
+          },
+          {
+            "id": "1d54d43c1cb242fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bb21e6fb9beae31a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "c8c0bd3a84d4d5f1",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          },
+          {
+            "id": "d4f9500e5dd90394",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "local-backup:Run local backup": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "44500724fe19ac49",
+  "lastOpenFiles": [
+    "2 - Modern Video Games/Modern Video Games.md",
+    "Gaming Menu.md",
+    "1 - Retro Gaming/Retro Game Menu.md",
+    "Pokemon Red Version.md",
+    "2 - Modern Video Games/Publishers and Developers  Games/Bethesda/Fallout/Fallout 4 - Main Page - Introduction/Fallout 4 - Main Page - Introduction.md",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/Fallout 4 Vault Dweller's Survival Guide - Prima Official Game Guide.pdf",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/Fallout 4 Vault Dweller's Survival Guide - Prima Official Game Guide.pdf.crdownload",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/Front-Coiver.jpg",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/Front-Coiver.jpg.crdownload",
+    "2 - Modern Video Games/Publishers and Developers  Games/Bethesda/The Elder Scrolls/Skyrim/Skyrim - Main Page - Introduction.md",
+    "2 - Modern Video Games/Publishers and Developers  Games/Bethesda/The Elder Scrolls/Skyrim",
+    "2 - Modern Video Games/Publishers and Developers  Games/Bethesda/The Elder Scrolls",
+    "Lampoteuo.md",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/200px-SR-npc-Arngeir.jpg.crdownload",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/200px-SR-npc-Arngeir.jpg",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/Paarthurnax.jpg",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/Paarthurnax.jpg.crdownload",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/delphine.jpg.crdownload",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/delphine.jpg",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/skyrim-opening.jpg",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim/skyrim-opening.jpg.crdownload",
+    "z_Assets/Modern Games/imgs/Bethesda/Skyrim",
+    "z_Assets/Modern Games/imgs/Bethesda/Fallout 4/Locations/F4-Zone 3.png",
+    "z_Assets/Modern Games/imgs/Bethesda/Fallout 4/Locations/F4-Zone 2.png",
+    "z_Assets/Modern Games/imgs/Bethesda/Fallout 4/Locations/F4-Zone-2.png",
+    "z_Assets/Modern Games/imgs/Bethesda/Fallout 4/Locations/F4-Zone 4.png",
+    "z_Assets/Modern Games/imgs/Bethesda/Fallout 4/Locations/jneK2Vo0JC.png",
+    "publish.md",
+    "1 - Retro Gaming/Publishers and Developers Games/Mario.md",
+    "Fallout.md",
+    "Super Mario 64 DS.md",
+    "Modern Games Menu.md",
+    "1 - Retro Gaming.md",
+    "Kingdom Hearts (2002).md",
+    "Welcome.md",
+    "1-Character_Sheets/1 - Character Sheets.md",
+    "bard.md",
+    "Bard Character.md",
+    "PC_template.md",
+    "0-DM-Screen/0- DM-Screen.md",
+    "2-Campaigns_and_Adventures/3 - Sources.md",
+    "2-Campaigns_and_Adventures/2 - Campaigns and Adventures.md",
+    "1 - Character Sheets/1 - Character Sheets.md",
+    "0- DM-Screen/0- DM-Screen.md",
+    "2 - Campaigns and Adventures/2 - Campaigns and Adventures.md",
+    "2 - Campaigns and Adventures/3 - Sources.md",
+    "0-Scratch Notes/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
